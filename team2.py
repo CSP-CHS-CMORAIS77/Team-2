@@ -8,7 +8,7 @@
 
 team_name = 'Hanging Rock' # Only 10 chars displayed.
 strategy_name = 'Team 2 Strat'
-strategy_description = 'It decides with an input.'
+strategy_description = '# Test 1: Betray on first move.'
     
 def move(my_history, their_history, my_score, their_score):
     ''' Arguments accepted: my_history, their_history are strings.
